@@ -1,0 +1,3 @@
+# LearnJS
+
+这是个有关学习JavaScript的笔记，参考阮一峰所编写的JavaScript，笔记中90%都是摘抄于阮一峰所编的JavaScript，有一些是作者自己学习理解之后所添加
